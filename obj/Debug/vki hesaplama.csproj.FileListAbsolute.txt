@@ -1,0 +1,10 @@
+C:\Users\ben\source\repos\vki hesaplama\vki hesaplama\bin\Debug\vki hesaplama.exe.config
+C:\Users\ben\source\repos\vki hesaplama\vki hesaplama\bin\Debug\vki hesaplama.exe
+C:\Users\ben\source\repos\vki hesaplama\vki hesaplama\bin\Debug\vki hesaplama.pdb
+C:\Users\ben\source\repos\vki hesaplama\vki hesaplama\obj\Debug\vki hesaplama.csproj.AssemblyReference.cache
+C:\Users\ben\source\repos\vki hesaplama\vki hesaplama\obj\Debug\vki_hesaplama.Form1.resources
+C:\Users\ben\source\repos\vki hesaplama\vki hesaplama\obj\Debug\vki_hesaplama.Properties.Resources.resources
+C:\Users\ben\source\repos\vki hesaplama\vki hesaplama\obj\Debug\vki hesaplama.csproj.GenerateResource.cache
+C:\Users\ben\source\repos\vki hesaplama\vki hesaplama\obj\Debug\vki hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\ben\source\repos\vki hesaplama\vki hesaplama\obj\Debug\vki hesaplama.exe
+C:\Users\ben\source\repos\vki hesaplama\vki hesaplama\obj\Debug\vki hesaplama.pdb
